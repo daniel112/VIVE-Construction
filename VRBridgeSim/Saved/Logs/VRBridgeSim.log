@@ -2846,3 +2846,201 @@ LogInit: Object subsystem initialized
 [2017.03.27-00.38.17:653][769]Cmd: MAP CHECK NOTIFYRESULTS
 [2017.03.27-00.38.17:653][769]MapCheck: New page: mainMenu - Mar 26, 2017, 10:38:17 AM
 [2017.03.27-00.38.17:851][769]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 198.294ms to complete.
+[2017.03.27-00.47.42:639][607]LogSavePackage: Save=48.60ms
+[2017.03.27-00.47.42:639][607]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/mainMenu_Auto2C6CAC8854EB0969F1AABA98E88BC0D37.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/Autosaves/Game/Maps/mainMenu_Auto2.umap'
+[2017.03.27-00.47.42:642][607]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/Autosaves/Game/Maps/mainMenu_Auto2.umap
+[2017.03.27-00.47.42:646][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/mainMenu_BuiltData" FILE="../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu_BuiltData.uasset" SILENT=true
+[2017.03.27-00.47.42:722][607]LogSavePackage: Save=20.53ms
+[2017.03.27-00.47.42:722][607]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/mainMenu_BuiltData3748D3A047C6E7166FFC8398A16CD19A.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu_BuiltData.uasset'
+[2017.03.27-00.47.42:725][607]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu_BuiltData.uasset
+[2017.03.27-00.47.42:727][607]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/mainMenu' took 0.244
+[2017.03.27-00.47.42:727][607]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.244
+[2017.03.27-01.25.42:479][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.28-03.52.29:651][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.28-04.28.25:043][331]LogAIModule: Creating AISystem for world SimulationMap
+[2017.03.28-04.28.27:001][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/mainMenu" FILE="../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.28-04.28.27:183][331]LogSavePackage: Save=63.21ms
+[2017.03.28-04.28.27:183][331]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/mainMenu22181CB542C9317F7CBE969D019DE75D.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu.umap'
+[2017.03.28-04.28.27:190][331]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu.umap
+[2017.03.28-04.28.27:236][331]LogFileHelpers: Saving map 'mainMenu' took 0.474
+[2017.03.28-04.28.27:246][331]Cmd: MAP LOAD FILE="../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/SimulationMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.28-04.28.27:247][331]LightingResults: New page: Lighting Build
+[2017.03.28-04.28.27:248][331]LoadErrors: New page: Loading map: SimulationMap.umap
+[2017.03.28-04.28.27:256][331]MapCheck: New page: Map Check
+[2017.03.28-04.28.27:257][331]LightingResults: New page: Lighting Build
+[2017.03.28-04.28.27:830][331]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.28-04.28.27:865][331]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.28-04.28.28:060][331]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 194.787ms to complete.
+[2017.03.28-04.28.28:063][331]LogFileHelpers: Loading map 'SimulationMap' took 0.826
+[2017.03.28-04.28.34:921][891]LogAIModule: Creating AISystem for world mainMenu
+[2017.03.28-04.28.34:962][891]Cmd: MAP LOAD FILE="../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.28-04.28.34:962][891]LightingResults: New page: Lighting Build
+[2017.03.28-04.28.34:963][891]LoadErrors: New page: Loading map: mainMenu.umap
+[2017.03.28-04.28.34:964][891]MapCheck: New page: Map Check
+[2017.03.28-04.28.34:964][891]LightingResults: New page: Lighting Build
+[2017.03.28-04.28.35:545][891]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.28-04.28.35:589][891]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.28-04.28.35:786][891]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 196.967ms to complete.
+[2017.03.28-04.28.35:789][891]LogFileHelpers: Loading map 'mainMenu' took 0.828
+[2017.03.28-04.29.49:173][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (trashcan)
+[2017.03.28-04.30.30:005][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.28-04.30.53:557][953]LogMaterial: Missing cached shader map for material floor_tiles_NRM_Mat, compiling. 
+[2017.03.28-04.30.53:729][953]LogMaterial: Missing cached shader map for material floor_tiles_NRM_Mat, compiling. 
+[2017.03.28-04.30.53:757][953]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.30.53:786][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.03.28-04.30.53:821][953]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.28-04.31.50:310][581]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Daniel/Desktop/3d models/cubes-1.jpg)
+[2017.03.28-04.31.50:355][581]LogTexture:Display: Building textures: cubes-1 (BGRA8)
+[2017.03.28-04.31.55:826][901]LogMaterial: Missing cached shader map for material Tile2, compiling. 
+[2017.03.28-04.31.55:952][901]LogMaterial: Missing cached shader map for material Tile2, compiling. 
+[2017.03.28-04.31.55:970][901]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.31.56:009][901]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.32.01:195][167]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2017.03.28-04.32.01:321][167]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2017.03.28-04.32.01:340][167]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.32.01:374][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.32.05:214][323]MaterialEditorStats: Info Base pass shader with static lighting: 48 instructions
+[2017.03.28-04.32.05:214][323]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.03.28-04.32.05:214][323]MaterialEditorStats: Info Vertex shader: 85 instructions
+[2017.03.28-04.32.05:214][323]MaterialEditorStats: Info Texture samplers: 2/16
+[2017.03.28-04.32.05:458][332]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2017.03.28-04.32.05:481][332]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.32.05:489][332]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.03.28-04.32.05:537][332]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.32.05:556][332]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.03.28-04.32.09:184][475]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2017.03.28-04.32.09:209][475]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.32.09:248][475]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.03.28-04.32.14:259][689]MaterialEditorStats: Info Base pass shader with static lighting: 58 instructions
+[2017.03.28-04.32.14:259][689]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2017.03.28-04.32.14:259][689]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.32.14:259][689]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.32.17:226][850]LogMaterialEditor: Applying material Tile2
+[2017.03.28-04.32.19:600][850]LogMaterial: Missing cached shader map for material PreviewMaterial_8, compiling. 
+[2017.03.28-04.32.19:639][850]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.32.19:672][850]LogMaterial: Missing cached shader map for material Tile2, compiling. 
+[2017.03.28-04.32.19:746][850]LogMaterial: Missing cached shader map for material Tile2, compiling. 
+[2017.03.28-04.32.19:800][850]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.32.57:693][666]LogMaterial: Missing cached shader map for material PreviewMaterial_9, compiling. 
+[2017.03.28-04.32.57:821][666]LogMaterial: Missing cached shader map for material PreviewMaterial_9, compiling. 
+[2017.03.28-04.32.57:840][666]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.32.57:873][666]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.03.28-04.32.57:888][666]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.28-04.33.05:845][862]MaterialEditorStats: Info Base pass shader with static lighting: 63 instructions
+[2017.03.28-04.33.05:845][862]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 37 instructions
+[2017.03.28-04.33.05:845][862]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.33.05:845][862]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.33.13:956][264]LogMaterial: Missing cached shader map for material PreviewMaterial_10, compiling. 
+[2017.03.28-04.33.14:073][264]LogMaterial: Missing cached shader map for material PreviewMaterial_10, compiling. 
+[2017.03.28-04.33.14:091][264]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.33.14:123][264]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.33.14:141][264]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.03.28-04.33.17:551][324]MaterialEditorStats: Info Base pass shader with static lighting: 58 instructions
+[2017.03.28-04.33.17:551][324]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2017.03.28-04.33.17:551][324]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.33.17:551][324]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.33.31:271][863]LogMaterial: Missing cached shader map for material PreviewMaterial_11, compiling. 
+[2017.03.28-04.33.31:409][863]LogMaterial: Missing cached shader map for material PreviewMaterial_11, compiling. 
+[2017.03.28-04.33.31:425][863]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.33.31:453][863]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.03.28-04.33.31:461][863]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.28-04.33.34:671][  5]LogMaterial: Missing cached shader map for material zatirka, compiling. 
+[2017.03.28-04.33.34:864][  5]LogMaterial: Missing cached shader map for material zatirka, compiling. 
+[2017.03.28-04.33.34:892][  5]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.33.34:923][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.33.34:931][  5]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.03.28-04.33.42:849][435]LogSavePackage: Save=16.28ms
+[2017.03.28-04.33.42:849][435]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/wallTileBE17EFAB4B4C27923F76E5ACE1018147.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/wallTile.uasset'
+[2017.03.28-04.33.42:855][435]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/wallTile.uasset
+[2017.03.28-04.33.42:859][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_menu/mapObjects/tiles/Tile2" FILE="../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/Tile2.uasset" SILENT=true
+[2017.03.28-04.33.42:933][435]LogSavePackage: Save=2.48ms
+[2017.03.28-04.33.42:933][435]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/Tile2DD28F5EC4FD3AFDFD2540D8137B1C5FF.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/Tile2.uasset'
+[2017.03.28-04.33.42:939][435]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/Tile2.uasset
+[2017.03.28-04.33.50:855][ 56]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.33.50:984][ 56]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.33.51:001][ 56]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.33.51:035][ 56]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.33.51:041][ 56]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.03.28-04.33.55:755][240]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.33.55:781][240]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.33.55:823][240]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.33.57:314][303]LogMaterialEditor: Applying material wallTile
+[2017.03.28-04.33.58:518][303]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.33.58:565][303]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.33.58:606][303]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.33.58:679][303]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.33.58:721][303]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.34.08:824][486]MaterialEditorStats: Info Base pass shader with static lighting: 125 instructions
+[2017.03.28-04.34.08:824][486]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 99 instructions
+[2017.03.28-04.34.08:824][486]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.34.08:824][486]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.28-04.34.32:526][816]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.34.32:543][816]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.34.37:763][ 17]MaterialEditorStats: Info Base pass shader with static lighting: 58 instructions
+[2017.03.28-04.34.37:763][ 17]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2017.03.28-04.34.37:763][ 17]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.34.37:763][ 17]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.35.06:254][216]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.35.06:273][216]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.35.06:303][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.03.28-04.35.10:310][394]MaterialEditorStats: Info Base pass shader with static lighting: 58 instructions
+[2017.03.28-04.35.10:311][394]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 32 instructions
+[2017.03.28-04.35.10:311][394]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.35.10:311][394]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.35.10:413][398]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.35.10:436][398]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.35.13:914][554]MaterialEditorStats: Info Base pass shader with static lighting: 59 instructions
+[2017.03.28-04.35.13:914][554]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2017.03.28-04.35.13:914][554]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.35.13:914][554]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.35.15:600][652]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.35.15:617][652]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.35.18:776][770]MaterialEditorStats: Info Base pass shader with static lighting: 59 instructions
+[2017.03.28-04.35.18:776][770]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2017.03.28-04.35.18:776][770]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.35.18:776][770]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.35.19:802][826]LogMaterialEditor: Applying material wallTile
+[2017.03.28-04.35.20:637][826]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.35.20:669][826]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.35.20:704][826]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.35.20:771][826]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.35.20:815][826]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.35.55:953][271]LogMaterial: Missing cached shader map for material PreviewMaterial_12, compiling. 
+[2017.03.28-04.35.56:080][271]LogMaterial: Missing cached shader map for material PreviewMaterial_12, compiling. 
+[2017.03.28-04.35.56:095][271]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.35.56:138][271]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.03.28-04.35.56:164][271]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.03.28-04.36.00:642][490]MaterialEditorStats: Info Base pass shader with static lighting: 59 instructions
+[2017.03.28-04.36.00:642][490]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2017.03.28-04.36.00:642][490]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.36.00:642][490]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.36.04:206][703]LogMaterial: Missing cached shader map for material PreviewMaterial_12, compiling. 
+[2017.03.28-04.36.04:222][703]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.36.04:785][730]LogMaterial: Missing cached shader map for material PreviewMaterial_12, compiling. 
+[2017.03.28-04.36.04:809][730]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.36.07:974][883]MaterialEditorStats: Info Base pass shader with static lighting: 59 instructions
+[2017.03.28-04.36.07:974][883]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 33 instructions
+[2017.03.28-04.36.07:974][883]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.36.07:974][883]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.03.28-04.36.11:514][ 98]LogMaterialEditor: Applying material wallTile
+[2017.03.28-04.36.12:336][ 98]LogMaterial: Missing cached shader map for material PreviewMaterial_12, compiling. 
+[2017.03.28-04.36.12:366][ 98]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.36.12:393][ 98]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.36.12:446][ 98]LogMaterial: Missing cached shader map for material wallTile, compiling. 
+[2017.03.28-04.36.12:478][ 98]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.03.28-04.36.13:246][134]LogMaterialEditor: Saving and Compiling material wallTile
+[2017.03.28-04.36.18:603][134]LogSavePackage: Save=16.35ms
+[2017.03.28-04.36.18:603][134]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/wallTile11AD64B3450AE7E9DA15B1934D3BAF84.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/wallTile.uasset'
+[2017.03.28-04.36.18:610][134]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/wallTile.uasset
+[2017.03.28-04.36.18:616][134]MaterialEditorStats: Info Base pass shader with static lighting: 126 instructions
+[2017.03.28-04.36.18:616][134]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 100 instructions
+[2017.03.28-04.36.18:616][134]MaterialEditorStats: Info Vertex shader: 87 instructions
+[2017.03.28-04.36.18:616][134]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.03.28-04.36.24:902][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/mainMenu" FILE="../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.28-04.36.25:055][621]LogSavePackage: Save=53.43ms
+[2017.03.28-04.36.25:055][621]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/mainMenuE43ACF764DD0A5A09F5C979F6B00A23E.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu.umap'
+[2017.03.28-04.36.25:061][621]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/Maps/mainMenu.umap
+[2017.03.28-04.36.25:097][621]LogFileHelpers: Saving map 'mainMenu' took 0.416
+[2017.03.28-04.36.25:163][621]LogSavePackage: Save=51.43ms
+[2017.03.28-04.36.25:163][621]LogSavePackage: Moving '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Saved/cubes-13CF734724A54289E117A1BBE539DF4B0.tmp' to '../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/cubes-1.uasset'
+[2017.03.28-04.36.25:168][621]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Daniel/Desktop/VIVE-Construction/VRBridgeSim/Content/VR_menu/mapObjects/tiles/cubes-1.uasset
